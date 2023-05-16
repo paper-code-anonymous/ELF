@@ -5,7 +5,7 @@
 First, download our repo:
 
 ```bash
-git clone https://github.com/paper-code-anonymous/ELF
+git clone https://github.com/paper-code-anonymous/ELF.git
 cd ELF
 ```
 
@@ -23,7 +23,7 @@ conda activate ELF
 
 ### Generate synthetic dataset
 
-Below are some example commands to run each method to generate synthetic dataset, you can run one of them to eval with our method.
+Below are some example commands to run each method, you can run one of them to generate synthetic dataset for eval using ELF.
 
 #### Distillation with Distribution Matching
 
